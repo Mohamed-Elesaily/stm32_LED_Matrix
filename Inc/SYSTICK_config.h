@@ -1,0 +1,13 @@
+
+#ifndef SYSTICK_CONFIG_H
+#define SYSTICK_CONFIG_H
+
+/**
+ *  SYSTICK_CLOCK_SOURCE options:
+ *  STK_AHB_DIV_8
+ *  STK_AHB
+*/
+#define STK_CLOCK_SOURCE STK_AHB_DIV_8
+
+
+#endif
